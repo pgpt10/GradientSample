@@ -41,6 +41,10 @@ import UIKit
         gradientLayer.startPoint = self.gradientStartPoint
         gradientLayer.endPoint = self.gradientEndPoint
         gradientLayer.frame = self.bounds
+        if let topLayer = self.layer.sublayers?.first, topLayer is CAGradientLayer
+        {
+            topLayer.removeFromSuperlayer()
+        }
         self.layer.addSublayer(gradientLayer)
     }
 }
