@@ -1,4 +1,4 @@
-# GradientSample
+# Color it with GRADIENTS — iOS
 
 I've been working with iOS for quiet a long time now and believe me, building a nice-looking visual interface is must for an app to get accepted by a larger audience.  Good design, colors, concept everything matters when building a great UI. 
 Gradients is one of the things that adds life to the colors. 
@@ -15,3 +15,6 @@ In this article, we'll be discussing how to get that working in our own app. And
 <a href="https://medium.com/p/a4b374c3c79f">Here</a> you can find the complete details on how to implement a gradient in a view.
 
 <img src="https://github.com/pgpt10/GradientSample/blob/master/Screen%20Shot%202018-05-13%20at%204.30.43%20PM.png">
+
+## Promotions
+For more iOS related stuff, you can follow me <a href="https://medium.com/@p.gpt10">here</a>.
